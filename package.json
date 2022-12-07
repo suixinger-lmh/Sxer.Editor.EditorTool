@@ -1,0 +1,9 @@
+{
+	"name": "com.sxer.editor.editortool",
+	"displayName": "EditorTool",
+	"description": "Unity Editor tool help easy manager Assets.",
+	"version": "0.0.3",
+	"unity": "2019.4",
+	"dependencies": {
+	}
+}
